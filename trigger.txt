@@ -1,1 +1,1 @@
-mysql:5.7 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/puzzlp/mysql:5.7
+mysql:5.7 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/mysql:5.7
