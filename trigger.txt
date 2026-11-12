@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/puzzlp/mysql:5.7
