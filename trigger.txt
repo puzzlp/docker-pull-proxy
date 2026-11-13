@@ -1,2 +1,5 @@
-redis:6.2.7 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/redis:6.2.7
-rabbitmq:3.8-management crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/rabbitmq:3.8-management
+redis:6.0.5 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/redis:6.0.5
+rabbitmq:3.8.3 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/rabbitmq:3.8.3
+dameng:8 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/dameng:8
+mariadb:10.2.24 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/mariadb:10.2.24
+nginx:1.22.0-alpine crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/nginx:1.22.0-alpine
