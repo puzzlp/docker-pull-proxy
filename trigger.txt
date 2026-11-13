@@ -1,2 +1,2 @@
-redis:7.0 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/redis:7.0
-nginx:latest crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/nginx:latest
+redis:6.2.7 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/redis:6.2.7
+rabbitmq:3.8-management crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/rabbitmq:3.8-management
