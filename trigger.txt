@@ -1,1 +1,1 @@
-openjdk:24-jdk crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/openjdk:24-jdk
+nginx:1.31.9 crpi-jkviihr5scexk40r.cn-hangzhou.personal.cr.aliyuncs.com/npc-zz/nginx:1.31.9
